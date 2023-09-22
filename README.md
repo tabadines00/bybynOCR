@@ -14,6 +14,9 @@ This project is my contribution to continuing the use of Baybayin by making it m
 ## Current Technical Features
 - Uses Keras' Convolutional Layers to train a CNN Model to classify input and recognize the characters
 
+## Dataset and Resources
+- [Handwritten Baybayin Kaggle Dataset by James Arnold Nogra](https://www.kaggle.com/datasets/jamesnogra/baybayn-baybayin-handwritten-images)
+
 ## Planned Technical Features
 - Increasing accuracy by experimenting with other architectures
 - Implementing Full Text Detection and Extraction on Images
