@@ -1,5 +1,6 @@
 # bybynOCR ᜊᜌ᜔ᜊᜌᜒᜈ᜔
 An OCR model for character-level recognition of Baybayin, the pre-colonial script of the Tagalog Language. Soon, I plan to implement full Scene Text Detection in images.
+[Online Demo](http://thomasabadines.s3-website-us-west-1.amazonaws.com/BybynDemo/index.html) (Works on Mobile!)
 
 ![demo](https://github.com/tabadines00/bybynOCR/assets/35116935/65f40554-37bc-4d4e-9404-65213b107aa8)
 
